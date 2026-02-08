@@ -18,24 +18,6 @@
 
 <hr/>
 
-## 🚀 About Me
-
-<img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" />
-
-I’m **Mohamed Abdelmaksod Ali**, a passionate and dedicated  
-**Full Stack .NET Developer** with **3+ years of experience** in building **web and desktop applications**.
-
-🎓 Bachelor’s degree in **Computers & Information Systems**  
-💼 Currently working as **Full Stack Developer**  
-🌍 Freelancer – Remote & On-site  
-📍 Cairo, Egypt  
-
-I have strong hands-on experience with **ASP.NET Core, Web API, MVC, Angular, React, WinForms**, and basic knowledge of **Blazor**.  
-I enjoy building clean, scalable systems and continuously improving my skills.
-
-🌍 **Open to Remote / Hybrid opportunities**
-
----
 
 ## 🧰 Tools & Technologies I Use
 
@@ -61,6 +43,26 @@ I enjoy building clean, scalable systems and continuously improving my skills.
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
+
+## 🚀 About Me
+
+<img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" />
+
+I’m **Mohamed Abdelmaksod Ali**, a passionate and dedicated  
+**Full Stack .NET Developer** with **3+ years of experience** in building **web and desktop applications**.
+
+🎓 Bachelor’s degree in **Computers & Information Systems**  
+💼 Currently working as **Full Stack Developer**  
+🌍 Freelancer – Remote & On-site  
+📍 Cairo, Egypt  
+
+I have strong hands-on experience with **ASP.NET Core, Web API, MVC, Angular, React, WinForms**, and basic knowledge of **Blazor**.  
+I enjoy building clean, scalable systems and continuously improving my skills.
+
+🌍 **Open to Remote / Hybrid opportunities**
+
+---
+
 
 ```csharp
 // Mohamed Abdelmaksod in Code 👇
