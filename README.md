@@ -3,21 +3,13 @@
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%"/><br> 
 
-<details>
-<p><strong><summary> Busy coding & Vibing to :</summary></strong></p>
-
-🎧 Coding • Coffee • Problem Solving • Focus Mode
-
-</details>
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed%20Abdelmaksod-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mohamed-abd-elmaksod-78b089243/)
-[![Gmail](https://img.shields.io/badge/Gmail-mohamed.dev@gmail.com-red?style=flat&logo=gmail)](mailto:mi038126@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-mi038126@gmail.com-red?style=flat&logo=gmail)](mailto:mi038126@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-MohammedAbdElmaksod-black?style=flat&logo=github)](https://github.com/MohammedAbdElmaksod)
 
 </div>
 
 <hr/>
-
 
 ## 🧰 Tools & Technologies I Use
 
@@ -25,6 +17,8 @@
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat)
+![Microservices](https://img.shields.io/badge/Microservices-000000?style=flat)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 ### Frontend
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
@@ -33,16 +27,19 @@
 
 ### Desktop
 ![WinForms](https://img.shields.io/badge/WinForms-0078D6?style=flat)
+![WPF](https://img.shields.io/badge/WPF-512BD4?style=flat)
 
 ### Databases
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=flat&logo=firebase&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
+
+---
 
 ## 🚀 About Me
 
@@ -63,18 +60,18 @@ I enjoy building clean, scalable systems and continuously improving my skills.
 
 ---
 
-
 ```csharp
 // Mohamed Abdelmaksod in Code 👇
 
 class Mohamed : FullStackDeveloper
 {
-    string[] Backend = { "ASP.NET Core", "Web API", "MVC" };
-    string[] Frontend = { "Angular", "React", "Blazor (Basic)" };
-    string[] Desktop = { "WinForms" };
-    string[] Databases = { "SQL Server", "PostgreSQL", "Firebase" };
-    string[] Principles = { "Clean Architecture", "SOLID" };
+    string[] Backend = { "ASP.NET Core", "Web API", "MVC", "Microservices", "Docker" };
+    string[] Frontend = { "Angular", "React (Basic)", "Blazor (Basic)" };
+    string[] Desktop = { "WinForms", "WPF" };
+    string[] Databases = { "SQL Server", "PostgreSQL", "MongoDB" };
+    string[] Principles = { "Clean Architecture", "SOLID", "Onion Architecture" };
 }
+
 
 ```
 
@@ -138,10 +135,12 @@ Bachelor’s Degree – Computer Science (Information Systems)
 
 📬 Contact Me
 
-📧 Email: mi038126@gmail.com
+📧 Email: [Gmail](mailto:mi038126@gmail.com)
 
 📱 Phone: +20 101 826 4656
+
 📍 Location: Cairo, Egypt
+
 💼 LinkedIn: [Linkedin](https://www.linkedin.com/in/mohamed-abd-elmaksod-78b089243/)
 
 🐙 GitHub: [GitHub](https://github.com/MohammedAbdElmaksod)
