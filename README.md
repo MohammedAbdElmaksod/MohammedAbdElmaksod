@@ -1,7 +1,7 @@
 <div align="center" width="50">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%"/><br> 
+<img src="https://github.com/MohammedAbdElmaksod/MohammedAbdElmaksod/blob/main/hellocoders_rounded.gif" alt="Hello Coders" width="60%"/> <br>
+<img src="https://github.com/MohammedAbdElmaksod/MohammedAbdElmaksod/blob/main/dev-working_rounded.gif" alt="Workspace"  width="40%"/><br> 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed%20Abdelmaksod-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mohamed-abd-elmaksod-78b089243/)
 [![Gmail](https://img.shields.io/badge/Gmail-mi038126@gmail.com-red?style=flat&logo=gmail)](mailto:mi038126@gmail.com)
